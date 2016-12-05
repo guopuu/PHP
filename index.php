@@ -1,1 +1,5 @@
-hello;
+<?
+
+ echo  "hello";
+
+?>
